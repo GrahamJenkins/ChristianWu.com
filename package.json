@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "hugo": "^0.0.3"
+  },
+  "devDependencies": {
+    "hugo-bin": "^0.140.1"
   }
 }
