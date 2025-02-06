@@ -1,0 +1,10 @@
+baseURL = 'https://christianwu.com/'
+languageCode = 'en-us'
+title = 'Christian Wu'
+theme = 'christian-wu'
+
+[params]
+  description = "Christian Wu's personal website"
+  author = "Christian Wu"
+  keywords = ["Christian Wu"]
+
